@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    width: 100%;
+    text-align: center;
+    align-self: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border:0cm black thick;
+    padding: 10px;
+}
+body{
+    background-color: rgb(226, 178, 159);
+}

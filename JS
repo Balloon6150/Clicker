@@ -1,0 +1,11 @@
+let Clicks = 1;
+const Button = document.getElementById("button");
+const Cliker = document.getElementById("This");
+function changeText() {
+  Clicks = Clicks + 1;
+  Cliker.innerHTML = Clicks;
+}
+function event() {
+  Clicks = Clicks + 1;
+  Cliker.textContent = score;
+}
